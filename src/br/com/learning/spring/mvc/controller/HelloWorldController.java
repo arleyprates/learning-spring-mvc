@@ -9,6 +9,6 @@ public class HelloWorldController {
 	@RequestMapping("helloWorldSpring")
 	public String execute() {
 		System.out.println("Executing logic with spring MVC");
-		return "OK!";
+		return "ok";
 	}
 }
