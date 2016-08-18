@@ -1,0 +1,10 @@
+/build/
+/target/
+/bin/
+WebContent/WEB-INF/lib/*
+.DS_Store
+
+.project
+.metadata
+.settings/
+.classpath
